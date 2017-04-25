@@ -1,7 +1,7 @@
 c
-c
-c
-c
+cccc
+ccc
+cccc
 c
 c
 
